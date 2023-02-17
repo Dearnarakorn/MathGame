@@ -12,4 +12,8 @@ public class MathGame {
     public static void main(String[] args) {
         new MathGame();
     }
+
+    private void test(){
+        System.out.println("riir");
+    }
 }
